@@ -1,1 +1,1 @@
-# -js-developer-pokedex
+# pokedex
